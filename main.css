@@ -1,0 +1,29 @@
+h1{
+    color:black;
+    text-align: center;
+    padding-top: 28px
+}
+h2{
+  color:black;
+  text-align: center;s
+  font-size: 23px;
+}
+h3{
+    color: black;
+    text-align: center;
+    font-size: 17px
+}
+img{
+    border-radius: 50%;
+}
+p{
+  text-indent: 70px; 
+  padding-top: 30px;
+}
+body{
+    background-color: #ff80b3;
+    padding-bottom:10px;
+    padding-left:100px;
+    padding-right:100px;
+    padding-top:10px;
+}
